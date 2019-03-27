@@ -1,16 +1,15 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Este proyecto es un ejercicio para la empresa [Maniak](https://maniak.co/).
+## Scripts disponibles
 
-## Available Scripts
-
-In the project directory, you can run:
+En la carpeta del proyecto se puede correr lo siguiente:
 
 ### `npm start`
 
-Runs the app in the development mode.<br>
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Se corre la aplicacion en modo de desarrollo.<br>
+Abre [http://localhost:3000](http://localhost:3000) para ver en el navegador.
 
-The page will reload if you make edits.<br>
-You will also see any lint errors in the console.
+La pagina se recarará si se hace algun cambio<br>
+Tambien se podrá ver una lsita de errores en la consola.
 
 ### `npm test`
 
